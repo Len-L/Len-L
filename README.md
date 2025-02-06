@@ -31,8 +31,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Len-L/Len-L/output/snake.svg" alt="Snake animation" />
-
-###
